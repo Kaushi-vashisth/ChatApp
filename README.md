@@ -1,6 +1,7 @@
-Deployment 
-Backend : https://chat-app-eta-sooty.vercel.app
-Frontend : https://chat-app-a33u.vercel.app
+<h1> Deployment </h1>
+<br>
+<b> Backend : </b>https://chat-app-eta-sooty.vercel.app <br>
+<b>Frontend : </b> https://chat-app-a33u.vercel.app
 
 # Chat Application
 
